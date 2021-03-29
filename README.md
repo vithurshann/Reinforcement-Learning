@@ -1,14 +1,14 @@
 # Reinforcement-Learning
 
-%%%%
+
 Deep Learning: Optimization
 
 By: Vithurshan Vijayachandran and Hisho Rajanathan
-%%%%
+
 
 Files in Folder: 
 
-1. DeepLearningFinalCode.ipynb - Jupyter Notebook for Basic and Advance Task 
+1. DeepLearningFinalCode.ipynb - Jupyter Notebook for Basic (Q Learning) and Advance Task (DQN and DDQN).
 
 
 Use the below Pre-trained model to test the networks as retraining is very time consuming.  
