@@ -1,7 +1,8 @@
 # Reinforcement-Learning
 
 %%%%
-Deep Learning: Optimization 
+Deep Learning: Optimization
+
 By: Vithurshan Vijayachandran and Hisho Rajanathan
 %%%%
 
