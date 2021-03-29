@@ -6,9 +6,9 @@ Deep Learning: Optimization
 By: Vithurshan Vijayachandran and Hisho Rajanathan <br />
 
 
-
-
 <br /> 
+
+
 1. DeepLearningFinalCode.ipynb - Jupyter Notebook for Basic (Q Learning) and Advance Task (DQN and DDQN).
 
 2. RL_Rport.pdf: Report of all findings and evaluvation of the study.
