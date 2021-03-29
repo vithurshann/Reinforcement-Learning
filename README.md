@@ -7,9 +7,10 @@ By: Vithurshan Vijayachandran and Hisho Rajanathan
 
 
 
-Files in Folder: 
 
 1. DeepLearningFinalCode.ipynb - Jupyter Notebook for Basic (Q Learning) and Advance Task (DQN and DDQN).
+
+2. RL_Rport.pdf: Report of all findings and evaluvation of the study.
 
 
 Use the below Pre-trained model to test the networks as retraining is very time consuming.  
