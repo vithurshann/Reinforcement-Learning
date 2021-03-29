@@ -15,8 +15,8 @@ By: Vithurshan Vijayachandran and Hisho Rajanathan
 
 Use the below Pre-trained model to test the networks as retraining is very time consuming.  
 
-2. DQNTrainingModel.h5 - File required to test DQN network
+3. DQNTrainingModel.h5 - File required to test DQN network
 
-3. DDQNTrainingModel.h5- File required to test DDQN network
+4. DDQNTrainingModel.h5- File required to test DDQN network
 
-4. DDQNPERTrainingModel.h5 = File required to test DDQN with PER network
+5. DDQNPERTrainingModel.h5 = File required to test DDQN with PER network
