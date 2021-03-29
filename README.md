@@ -3,7 +3,7 @@
 
 Deep Learning: Optimization
 
-By: Vithurshan Vijayachandran and Hisho Rajanathan
+By: Vithurshan Vijayachandran and Hisho Rajanathan <br />
 
 
 
